@@ -4,12 +4,15 @@
 .row{
     border: 3px solid red;
 }
-.col{
-    border: 3px solid green;
+.green{
+    background:  green;
 }
 .pink{
     background: pink;
 }
 .blue{
     background: blue;
+}
+.orange{
+    background: orange;
 }
